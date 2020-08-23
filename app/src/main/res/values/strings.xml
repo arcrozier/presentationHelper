@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Presentation Helper</string>
+    <string name="warn_too_quiet">Too quiet!</string>
+    <string name="warn_too_fast">Too fast!</string>
+    <string name="warn_too_loud">Too loud!</string>
+    <string name="warn_too_slow">Too slow!</string>
+    <string name="warn_too_much_filler">Too many filler words!</string>
+    <string name="room_type">Room type</string>
+    <string-array name="environments">
+        <item name="small">Small room</item>
+        <item name="medium">Meeting room</item>
+        <item name="large">Large room</item>
+        <item name="outside">Outside gathering</item>
+    </string-array>
+    <string name="stop_recording">Stop recording</string>
+</resources>
