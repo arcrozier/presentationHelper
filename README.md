@@ -1,4 +1,4 @@
-# presentationHelper
+# Presentation Helper
 An Android app to help you give clear, effective presentations
 
 To give it a try, clone the repo and open it with Android Studio. Launch on any Android device or emulator running Android 10 (Q) or higher.
